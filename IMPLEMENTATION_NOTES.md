@@ -1,0 +1,1 @@
+Added PatientModel. Remaining missing items require integrating external AdminLTE/Chart.js/PDF assets.
